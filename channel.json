@@ -1,0 +1,6 @@
+{
+  "schema_version": "2.0",
+  "repositories": [
+    "https://raw.github.com/KristoforMaynard/sublime_package_channel/master/repository.json"
+  ]
+}
