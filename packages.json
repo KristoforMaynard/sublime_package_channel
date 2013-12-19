@@ -7,7 +7,7 @@
       "releases": [
         {
           "sublime_text": ">=3000",
-          "platforms": ["osx", "linux"],
+          "platforms": ["osx", "osx-x64", "linux"],
           "details": "https://github.com/kristoformaynard/sublemake/tags"
         }
       ]
