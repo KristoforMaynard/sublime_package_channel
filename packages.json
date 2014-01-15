@@ -2,13 +2,46 @@
   "schema_version": "2.0",
   "packages": [
     {
-      "name": "Sublemake",
-      "details": "https://github.com/kristoformaynard/sublemake",
+      "name": "Messages",
+      "details": "https://github.com/kristoformaynard/SublimeMessages",
       "releases": [
         {
           "sublime_text": ">=3000",
           "platforms": ["osx", "osx-x64", "linux"],
-          "details": "https://github.com/kristoformaynard/sublemake/tags"
+          "details": "https://github.com/kristoformaynard/SublimeMessages/tree/master"
+        }
+      ]
+    },
+    {
+      "name": "MessagesSublemake",
+      "details": "https://github.com/kristoformaynard/SublimeMessagesSublemake",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "platforms": ["osx", "osx-x64", "linux"],
+          "details": "https://github.com/kristoformaynard/SublimeMessagesSublemake/tree/master"
+        }
+      ]
+    },
+    {
+      "name": "MessagesPylint",
+      "details": "https://github.com/kristoformaynard/SublimeMessagesPylint",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "platforms": ["osx", "osx-x64", "linux"],
+          "details": "https://github.com/kristoformaynard/SublimeMessagesPylint/tree/master"
+        }
+      ]
+    },
+    {
+      "name": "Chmod",
+      "details": "https://github.com/kristoformaynard/SublimeChmod",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "platforms": ["osx", "osx-x64", "linux"],
+          "details": "https://github.com/kristoformaynard/SublimeChmod/tree/master"
         }
       ]
     },
