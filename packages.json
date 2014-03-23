@@ -8,7 +8,7 @@
         {
           "sublime_text": ">=3000",
           "platforms": ["osx", "osx-x64", "linux"],
-          "details": "https://github.com/kristoformaynard/SublimeMessages/tree/master"
+          "details": "https://github.com/kristoformaynard/SublimeMessages/tags"
         }
       ]
     },
@@ -19,7 +19,7 @@
         {
           "sublime_text": ">=3000",
           "platforms": ["osx", "osx-x64", "linux"],
-          "details": "https://github.com/kristoformaynard/SublimeMessagesSublemake/tree/master"
+          "details": "https://github.com/kristoformaynard/SublimeMessagesSublemake/tags"
         }
       ]
     },
@@ -30,7 +30,7 @@
         {
           "sublime_text": ">=3000",
           "platforms": ["osx", "osx-x64", "linux"],
-          "details": "https://github.com/kristoformaynard/SublimeMessagesPylint/tree/master"
+          "details": "https://github.com/kristoformaynard/SublimeMessagesPylint/tags"
         }
       ]
     },
