@@ -2,50 +2,6 @@
   "schema_version": "2.0",
   "packages": [
     {
-      "name": "Messages",
-      "details": "https://github.com/kristoformaynard/SublimeMessages",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "platforms": ["osx", "osx-x64", "linux"],
-          "details": "https://github.com/kristoformaynard/SublimeMessages/tags"
-        }
-      ]
-    },
-    {
-      "name": "MessagesSublemake",
-      "details": "https://github.com/kristoformaynard/SublimeMessagesSublemake",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "platforms": ["osx", "osx-x64", "linux"],
-          "details": "https://github.com/kristoformaynard/SublimeMessagesSublemake/tags"
-        }
-      ]
-    },
-    {
-      "name": "MessagesPylint",
-      "details": "https://github.com/kristoformaynard/SublimeMessagesPylint",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "platforms": ["osx", "osx-x64", "linux"],
-          "details": "https://github.com/kristoformaynard/SublimeMessagesPylint/tags"
-        }
-      ]
-    },
-    {
-      "name": "Chmod",
-      "details": "https://github.com/kristoformaynard/SublimeChmod",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "platforms": ["osx", "osx-x64", "linux"],
-          "details": "https://github.com/kristoformaynard/SublimeChmod/tree/master"
-        }
-      ]
-    },
-    {
       "name": "Build Switcher 3",
       "details": "https://github.com/vojtajina/sublime-BuildSwitcher",
       "releases": [
