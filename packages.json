@@ -7,8 +7,7 @@
       "labels": ["auto-complete", "formatting"],
       "releases": [
         {
-          "sublime_text": ">=3000",
-          "tags": true
+          "sublime_text": ">=3000"
         }
       ]
     },
