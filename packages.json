@@ -7,17 +7,7 @@
       "releases": [
         {
           "sublime_text": ">=3000",
-          "branch": "master"
-        }
-      ]
-    },
-    {
-      "name": "Build Switcher 3",
-      "details": "https://github.com/vojtajina/sublime-BuildSwitcher",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "details": "https://github.com/vojtajina/sublime-BuildSwitcher/tree/master"
+          "tags": true
         }
       ]
     }
