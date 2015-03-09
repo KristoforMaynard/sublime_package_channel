@@ -10,6 +10,16 @@
           "details": "https://github.com/vojtajina/sublime-BuildSwitcher/tree/master"
         }
       ]
+    },
+    {
+      "name": "AutoDocstring",
+      "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring/tree/master"
+        }
+      ]
     }
   ]
 }
