@@ -6,7 +6,8 @@
       "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring",
       "releases": [
         {
-          "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring"
+          "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring",
+          "tags": true
         }
       ]
     },
