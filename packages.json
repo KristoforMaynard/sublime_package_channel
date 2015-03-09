@@ -14,7 +14,7 @@
     {
       "name": "AutoDocstring",
       "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring",
-      "labels": ["auto-complete", "formatting"]
+      "labels": ["auto-complete", "formatting"],
       "releases": [
         {
           "sublime_text": ">=3000",
