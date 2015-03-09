@@ -14,10 +14,11 @@
     {
       "name": "AutoDocstring",
       "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring",
+      "labels": ["auto-complete", "formatting"]
       "releases": [
         {
           "sublime_text": ">=3000",
-          "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring/tree/master"
+          "tags": true
         }
       ]
     }
