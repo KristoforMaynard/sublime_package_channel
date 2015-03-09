@@ -2,16 +2,6 @@
   "schema_version": "2.0",
   "packages": [
     {
-      "name": "Build Switcher 3",
-      "details": "https://github.com/vojtajina/sublime-BuildSwitcher",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "details": "https://github.com/vojtajina/sublime-BuildSwitcher/tree/master"
-        }
-      ]
-    },
-    {
       "name": "AutoDocstring",
       "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring",
       "labels": ["auto-complete", "formatting"],
@@ -19,6 +9,16 @@
         {
           "sublime_text": ">=3000",
           "tags": true
+        }
+      ]
+    },
+    {
+      "name": "Build Switcher 3",
+      "details": "https://github.com/vojtajina/sublime-BuildSwitcher",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "details": "https://github.com/vojtajina/sublime-BuildSwitcher/tree/master"
         }
       ]
     }
