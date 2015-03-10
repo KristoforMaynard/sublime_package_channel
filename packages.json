@@ -13,7 +13,7 @@
     },
     {
       "name": "Build Switcher 3",
-      "details": "https://github.com/vojtajina/sublime-BuildSwitcher",
+      "details": "https://github.com/KristoforMaynard/sublime-BuildSwitcher",
       "releases": [
         {
           "sublime_text": ">=3000",
