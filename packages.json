@@ -2,16 +2,6 @@
   "schema_version": "3.0.0",
   "packages": [
     {
-      "name": "AutoDocstring",
-      "details": "https://github.com/KristoforMaynard/SublimeAutoDocstring",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "tags": true
-        }
-      ]
-    },
-    {
       "name": "Build Switcher 3",
       "details": "https://github.com/KristoforMaynard/sublime-BuildSwitcher",
       "releases": [
