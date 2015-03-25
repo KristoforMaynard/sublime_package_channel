@@ -1,16 +1,17 @@
 {
   "schema_version": "3.0.0",
   "packages": [
-    {
-      "name": "Emacs Tabstops",
-      "details": "https://github.com/KristoforMaynard/EmacsTabstops",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "tags": true
-        }
-      ]
-    }
+   {
+     "name": "Emacs Tabstops",
+     "details": "https://github.com/KristoforMaynard/EmacsTabstops",
+     "labels": ["emacs", "formatting", "text manipulation"],
+     "releases": [
+       {
+         "sublime_text": ">=3000",
+         "tags": true
+       }
+     ]
+   },
     {
       "name": "Build Switcher 3",
       "details": "https://github.com/KristoforMaynard/sublime-BuildSwitcher",
